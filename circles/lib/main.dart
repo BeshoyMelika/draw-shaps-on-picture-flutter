@@ -67,7 +67,7 @@ List<Shape> sh = [
   Shape(2, [Offset(100, 20), Offset(180, 70)], ShapeType.Rectangle,
       Color.fromRGBO(299, 120, 122, .5)),
   Shape(
-      2,
+      3,
       [
         Offset(80, 260),
         Offset(300, 80),

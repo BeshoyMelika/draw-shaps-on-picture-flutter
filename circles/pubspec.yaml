@@ -12,7 +12,7 @@ description: A new Flutter project.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 version: 1.0.0+1
-
+publish_to: none
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
@@ -22,7 +22,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   touchable:
     git:
-      url: git@github.com:101-Edu/touchable.git
+      url: git@github.com:BeshoyMelika/touchable.git
 
 dev_dependencies:
   flutter_test:
